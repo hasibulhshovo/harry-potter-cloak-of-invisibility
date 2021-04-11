@@ -1,4 +1,4 @@
-# Harry Potter Cloack of Invisibility
+# Harry Potter Cloak of Invisibility
 
 ## Description
 A fun application that lets you experience the magic of harry potter's invisibility cloak.
@@ -8,4 +8,4 @@ A fun application that lets you experience the magic of harry potter's invisibil
 2. Install Open-CV `pip install opencv-python`.
 3. Install Numpy `pip install numpy`.
 4. Clone this repository: `git clone https://github.com/iam-hasibul/harry-potter-cloak-of-invisibility` or click `Download ZIP` in the right panel and extract it.
-5. Run `python clock-of-invisibility.py` from the repository's directory.
+5. Run `python cloak-of-invisibility.py` from the repository's directory.
